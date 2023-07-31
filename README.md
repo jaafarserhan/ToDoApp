@@ -6,7 +6,6 @@ It is simple application that allows users to manage their To-do list, the Appli
 - ASP.Net Core 6.0x as WebAPI
 - Swagger for API testing  and documentation
 - Mongo db as NoSQL Storage hosted on cloud through Mongo Atlas that is consuming a shared cluster (https://www.mongodb.com/atlas/database)
-![image](https://github.com/jaafarserhan/ToDoApp/assets/10464707/66bbc435-7386-4175-996d-fa9eab9539b5)
 
 ## Technical approaches & design patterns
 - MVC
